@@ -1,0 +1,726 @@
+[
+    {
+        "code": "AIP",
+        "value": "Academic Internship Program"
+    },
+    {
+        "code": "AAS",
+        "value": "African American Studies"
+    },
+    {
+        "code": "AWP",
+        "value": "Analytical Writing Program"
+    },
+    {
+        "code": "ANES",
+        "value": "Anesthesiology"
+    },
+    {
+        "code": "ANBI",
+        "value": "Anthro/Biological Anthropology"
+    },
+    {
+        "code": "ANAR",
+        "value": "Anthropological Archaeology"
+    },
+    {
+        "code": "ANTH",
+        "value": "Anthropology"
+    },
+    {
+        "code": "ANSC",
+        "value": "Anthropology/Sociocultural"
+    },
+    {
+        "code": "AESE",
+        "value": "ArchitectureBsdEntrpSystmsEngr"
+    },
+    {
+        "code": "BENG",
+        "value": "Bioengineering"
+    },
+    {
+        "code": "BNFO",
+        "value": "Bioinformatics"
+    },
+    {
+        "code": "BIEB",
+        "value": "Biol/Ecology, Behavior, & Evol"
+    },
+    {
+        "code": "BICD",
+        "value": "Biol/Genetics,Cellular&Develop"
+    },
+    {
+        "code": "BIPN",
+        "value": "Biology/Animal Physiol&Neurosc"
+    },
+    {
+        "code": "BIBC",
+        "value": "Biology/Biochemistry"
+    },
+    {
+        "code": "BGGN",
+        "value": "Biology/Grad/General"
+    },
+    {
+        "code": "BGJC",
+        "value": "Biology/Grad/Journal Club"
+    },
+    {
+        "code": "BGRD",
+        "value": "Biology/Grad/Research Discussn"
+    },
+    {
+        "code": "BGSE",
+        "value": "Biology/Grad/Seminar"
+    },
+    {
+        "code": "BILD",
+        "value": "Biology/Lower Division"
+    },
+    {
+        "code": "BIMM",
+        "value": "Biology/Molec Biol, Microbiol"
+    },
+    {
+        "code": "BISP",
+        "value": "Biology/Special Studies"
+    },
+    {
+        "code": "BIOM",
+        "value": "Biomedical Sciences"
+    },
+    {
+        "code": "CMM",
+        "value": "Cellular & Molecular Medicine"
+    },
+    {
+        "code": "CENG",
+        "value": "Chemical Engineering"
+    },
+    {
+        "code": "CHEM",
+        "value": "Chemistry and Biochemistry"
+    },
+    {
+        "code": "CHIN",
+        "value": "Chinese Studies"
+    },
+    {
+        "code": "CLAS",
+        "value": "Classical Studies"
+    },
+    {
+        "code": "CCS",
+        "value": "Climate Change Studies"
+    },
+    {
+        "code": "CLIN",
+        "value": "Clinical Psychology"
+    },
+    {
+        "code": "CLRE",
+        "value": "Clinical Research"
+    },
+    {
+        "code": "COGS",
+        "value": "Cognitive Science"
+    },
+    {
+        "code": "COMM",
+        "value": "Communication"
+    },
+    {
+        "code": "COGR",
+        "value": "Communication/Graduate"
+    },
+    {
+        "code": "CSS",
+        "value": "Computational Social Science"
+    },
+    {
+        "code": "CSE",
+        "value": "Computer Science & Engineering"
+    },
+    {
+        "code": "CCE",
+        "value": "Critical Community Engagement"
+    },
+    {
+        "code": "CGS",
+        "value": "Critical Gender Studies"
+    },
+    {
+        "code": "CAT",
+        "value": "Culture, Art, & Technology"
+    },
+    {
+        "code": "TDDM",
+        "value": "Dance/Dance Making"
+    },
+    {
+        "code": "TDHD",
+        "value": "Dance/History"
+    },
+    {
+        "code": "TDMV",
+        "value": "Dance/Movement"
+    },
+    {
+        "code": "TDPF",
+        "value": "Dance/Performance"
+    },
+    {
+        "code": "TDTR",
+        "value": "Dance/Theory"
+    },
+    {
+        "code": "DSC",
+        "value": "Data Science"
+    },
+    {
+        "code": "DSE",
+        "value": "Data Science and Engineering"
+    },
+    {
+        "code": "DERM",
+        "value": "Dermatology"
+    },
+    {
+        "code": "DSGN",
+        "value": "Design"
+    },
+    {
+        "code": "DOC",
+        "value": "Dimensions of Culture"
+    },
+    {
+        "code": "DDPM",
+        "value": "Drug Development & Product Mgt"
+    },
+    {
+        "code": "ECON",
+        "value": "Economics"
+    },
+    {
+        "code": "EDS",
+        "value": "Education Studies"
+    },
+    {
+        "code": "ERC",
+        "value": "Eleanor Roosevelt College"
+    },
+    {
+        "code": "ECE",
+        "value": "Electrical & Computer Engineer"
+    },
+    {
+        "code": "EMED",
+        "value": "Emergency Medicine"
+    },
+    {
+        "code": "ENG",
+        "value": "Engineering"
+    },
+    {
+        "code": "ENVR",
+        "value": "Environmental Studies"
+    },
+    {
+        "code": "ESYS",
+        "value": "Environmental Systems"
+    },
+    {
+        "code": "ETIM",
+        "value": "Ethnic St/Interdis Res Methods"
+    },
+    {
+        "code": "ETHN",
+        "value": "Ethnic Studies"
+    },
+    {
+        "code": "EXPR",
+        "value": "Exchange Programs"
+    },
+    {
+        "code": "FMPH",
+        "value": "Family Med & Public Health"
+    },
+    {
+        "code": "FPM",
+        "value": "Family and Preventive Medicine"
+    },
+    {
+        "code": "FILM",
+        "value": "Film Studies"
+    },
+    {
+        "code": "GPCO",
+        "value": "GPS/Core"
+    },
+    {
+        "code": "GPEC",
+        "value": "GPS/Economics"
+    },
+    {
+        "code": "GPGN",
+        "value": "GPS/General"
+    },
+    {
+        "code": "GPIM",
+        "value": "GPS/International Management"
+    },
+    {
+        "code": "GPLA",
+        "value": "GPS/Language"
+    },
+    {
+        "code": "GPPA",
+        "value": "GPS/Policy Analytics"
+    },
+    {
+        "code": "GPPS",
+        "value": "GPS/Political Science"
+    },
+    {
+        "code": "GLBH",
+        "value": "Global Health"
+    },
+    {
+        "code": "GSS",
+        "value": "Global South Studies"
+    },
+    {
+        "code": "HITO",
+        "value": "History Topics"
+    },
+    {
+        "code": "HIAF",
+        "value": "History of Africa"
+    },
+    {
+        "code": "HIEA",
+        "value": "History of East Asia"
+    },
+    {
+        "code": "HIEU",
+        "value": "History of Europe"
+    },
+    {
+        "code": "HILA",
+        "value": "History of Latin America"
+    },
+    {
+        "code": "HISC",
+        "value": "History of Science"
+    },
+    {
+        "code": "HINE",
+        "value": "History of the Near East"
+    },
+    {
+        "code": "HIUS",
+        "value": "History of the United States"
+    },
+    {
+        "code": "HIGR",
+        "value": "History, Graduate"
+    },
+    {
+        "code": "HILD",
+        "value": "History, Lower Division"
+    },
+    {
+        "code": "HDS",
+        "value": "Human Developmental Sciences"
+    },
+    {
+        "code": "HMNR",
+        "value": "Human Rights"
+    },
+    {
+        "code": "HUM",
+        "value": "Humanities"
+    },
+    {
+        "code": "INTL",
+        "value": "International Studies"
+    },
+    {
+        "code": "JAPN",
+        "value": "Japanese Studies"
+    },
+    {
+        "code": "JWSP",
+        "value": "Jewish Studies Program"
+    },
+    {
+        "code": "LATI",
+        "value": "Latin American Studies"
+    },
+    {
+        "code": "LAWS",
+        "value": "Law and Society"
+    },
+    {
+        "code": "LISL",
+        "value": "Linguistics/Amer Sign Language"
+    },
+    {
+        "code": "LIAB",
+        "value": "Linguistics/Arabic"
+    },
+    {
+        "code": "LIDS",
+        "value": "Linguistics/Directed Stdy"
+    },
+    {
+        "code": "LIFR",
+        "value": "Linguistics/French"
+    },
+    {
+        "code": "LIGN",
+        "value": "Linguistics/General"
+    },
+    {
+        "code": "LIGM",
+        "value": "Linguistics/German"
+    },
+    {
+        "code": "LIHL",
+        "value": "Linguistics/Heritage Languages"
+    },
+    {
+        "code": "LIIT",
+        "value": "Linguistics/Italian"
+    },
+    {
+        "code": "LIPO",
+        "value": "Linguistics/Portuguese"
+    },
+    {
+        "code": "LISP",
+        "value": "Linguistics/Spanish"
+    },
+    {
+        "code": "LTAM",
+        "value": "Literature of the Americas"
+    },
+    {
+        "code": "LTAF",
+        "value": "Literature/African"
+    },
+    {
+        "code": "LTCO",
+        "value": "Literature/Comparative"
+    },
+    {
+        "code": "LTCS",
+        "value": "Literature/Cultural Studies"
+    },
+    {
+        "code": "LTEU",
+        "value": "Literature/European & Eurasian"
+    },
+    {
+        "code": "LTFR",
+        "value": "Literature/French"
+    },
+    {
+        "code": "LTGM",
+        "value": "Literature/German"
+    },
+    {
+        "code": "LTGK",
+        "value": "Literature/Greek"
+    },
+    {
+        "code": "LTIT",
+        "value": "Literature/Italian"
+    },
+    {
+        "code": "LTKO",
+        "value": "Literature/Korean"
+    },
+    {
+        "code": "LTLA",
+        "value": "Literature/Latin"
+    },
+    {
+        "code": "LTRU",
+        "value": "Literature/Russian"
+    },
+    {
+        "code": "LTSP",
+        "value": "Literature/Spanish"
+    },
+    {
+        "code": "LTTH",
+        "value": "Literature/Theory"
+    },
+    {
+        "code": "LTWR",
+        "value": "Literature/Writing"
+    },
+    {
+        "code": "LTEN",
+        "value": "Literatures in English"
+    },
+    {
+        "code": "LTWL",
+        "value": "Literatures of the World"
+    },
+    {
+        "code": "LTEA",
+        "value": "Literatures/East Asian"
+    },
+    {
+        "code": "MMW",
+        "value": "Making of the Modern World"
+    },
+    {
+        "code": "MBC",
+        "value": "MarineBiodiversity&Conservatn"
+    },
+    {
+        "code": "MATS",
+        "value": "Materials Sci & Engineering"
+    },
+    {
+        "code": "MATH",
+        "value": "Mathematics"
+    },
+    {
+        "code": "MSED",
+        "value": "Mathematics & Science Educ"
+    },
+    {
+        "code": "MAE",
+        "value": "Mechanical & Aerospace Engin"
+    },
+    {
+        "code": "MED",
+        "value": "Medicine"
+    },
+    {
+        "code": "MCWP",
+        "value": "Muir College Writing Program"
+    },
+    {
+        "code": "MUS",
+        "value": "Music"
+    },
+    {
+        "code": "NANO",
+        "value": "NanoEngineering"
+    },
+    {
+        "code": "NEU",
+        "value": "Neurosciences"
+    },
+    {
+        "code": "NEUG",
+        "value": "Neurosciences/Graduate"
+    },
+    {
+        "code": "OBG",
+        "value": "Obstetrics and Gynecology"
+    },
+    {
+        "code": "OPTH",
+        "value": "Ophthalmology"
+    },
+    {
+        "code": "ORTH",
+        "value": "Orthopaedics"
+    },
+    {
+        "code": "PATH",
+        "value": "Pathology"
+    },
+    {
+        "code": "PEDS",
+        "value": "Pediatrics"
+    },
+    {
+        "code": "PHAR",
+        "value": "Pharmacology"
+    },
+    {
+        "code": "SPPS",
+        "value": "Pharmacy"
+    },
+    {
+        "code": "PHIL",
+        "value": "Philosophy"
+    },
+    {
+        "code": "PHYS",
+        "value": "Physics"
+    },
+    {
+        "code": "PHYA",
+        "value": "Physics/Astronomy"
+    },
+    {
+        "code": "POLI",
+        "value": "Political Science"
+    },
+    {
+        "code": "PSY",
+        "value": "Psychiatry"
+    },
+    {
+        "code": "PSYC",
+        "value": "Psychology"
+    },
+    {
+        "code": "PH",
+        "value": "Public Health"
+    },
+    {
+        "code": "RMAS",
+        "value": "Radiation Med & Applied Sci"
+    },
+    {
+        "code": "RAD",
+        "value": "Radiology"
+    },
+    {
+        "code": "MGTF",
+        "value": "Rady Sch of Management Finance"
+    },
+    {
+        "code": "MGT",
+        "value": "Rady School of Management"
+    },
+    {
+        "code": "MGTA",
+        "value": "RadySchMgt Business Analytics"
+    },
+    {
+        "code": "MGTP",
+        "value": "RadySchMgt Profsnl Accountancy"
+    },
+    {
+        "code": "RELI",
+        "value": "Religion, Study of"
+    },
+    {
+        "code": "RMED",
+        "value": "Reproductive Medicine"
+    },
+    {
+        "code": "REV",
+        "value": "Revelle College"
+    },
+    {
+        "code": "SPPH",
+        "value": "SSPPS/Pharmaceutical Sciences"
+    },
+    {
+        "code": "SOMI",
+        "value": "Sch of Med Interdisciplinary"
+    },
+    {
+        "code": "SOMC",
+        "value": "School of Medicine Core Crses"
+    },
+    {
+        "code": "SIOC",
+        "value": "Scripps Inst of Oceanogr/COAP"
+    },
+    {
+        "code": "SIOG",
+        "value": "Scripps Inst of Oceanogr/GEO"
+    },
+    {
+        "code": "SIOB",
+        "value": "Scripps Inst of Oceanogr/OBP"
+    },
+    {
+        "code": "SIO",
+        "value": "Scripps Inst of Oceanography"
+    },
+    {
+        "code": "SEV",
+        "value": "Seventh College"
+    },
+    {
+        "code": "SOCG",
+        "value": "Soc/Graduate"
+    },
+    {
+        "code": "SOCE",
+        "value": "Soc/Ind Research & Honors Prog"
+    },
+    {
+        "code": "SOCI",
+        "value": "Sociology"
+    },
+    {
+        "code": "SE",
+        "value": "Structural Engineering"
+    },
+    {
+        "code": "SURG",
+        "value": "Surgery"
+    },
+    {
+        "code": "SYN",
+        "value": "Synthesis"
+    },
+    {
+        "code": "TDAC",
+        "value": "Theatre / Acting"
+    },
+    {
+        "code": "TDDE",
+        "value": "Theatre / Design"
+    },
+    {
+        "code": "TDDR",
+        "value": "Theatre / Directing&Stage Mgmt"
+    },
+    {
+        "code": "TDGE",
+        "value": "Theatre / General"
+    },
+    {
+        "code": "TDGR",
+        "value": "Theatre / Graduate"
+    },
+    {
+        "code": "TDHT",
+        "value": "Theatre / History & Theory"
+    },
+    {
+        "code": "TDPW",
+        "value": "Theatre / Playwriting"
+    },
+    {
+        "code": "TDPR",
+        "value": "Theatre Dance/Practicum"
+    },
+    {
+        "code": "USP",
+        "value": "Urban Studies & Planning"
+    },
+    {
+        "code": "UROL",
+        "value": "Urology"
+    },
+    {
+        "code": "VIS",
+        "value": "Visual Arts"
+    },
+    {
+        "code": "WCWP",
+        "value": "Warren College Writing Program"
+    },
+    {
+        "code": "WES",
+        "value": "Wireless Embedded Systems"
+    }
+]
