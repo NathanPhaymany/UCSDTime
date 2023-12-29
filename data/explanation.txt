@@ -1,0 +1,17 @@
+clean.py has course catalog web scrapper
+
+tagger.py has all the tagging stuff
+
+data folder should be self explanatory
+
+tag_list.json has permanent tags, which are tags that are not dependent on enrollment like seats available and time slots
+will work on dynamic tags later
+
+the current tags used are:
+division(ie lower/upper)
+graduate level(undergraduate/graduate)
+DEI
+Difficulty (GPA>3.3 easy, 3.3>GPA>2.3 medium, 2.3>GPA hard)
+no prerequisites
+Department code(ie BENG or MATH)
+Department name(ie bioengineering or mathematics)
